@@ -1,8 +1,5 @@
-/*******************************************************************
-    Control an LED strip using Inline Keyboard on Telegram
+//HOW To control 4 RELAYS through Telegram Messenger with Telegram Bot
 
-   Code By Brian Lough
- **********************/
 #include <ESP8266WiFi.h> // for ESP8266 Board
 //#include <ESP8266WiFi.h>//Use for eso32 Board
 #include <WiFiClientSecure.h>
